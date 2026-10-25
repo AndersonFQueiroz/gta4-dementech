@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "notes": "Patch inicial Dementech",
+  "patch": {
+    "url": "https://github.com/AndersonFQueiroz/gta4-dementech/releases/download/v1/patch.zip",
+    "sha256": "54655f5f8f85c27c55e8f2ca28dac86eaf32ebdc6b10adabb2dfd7f81b805258",
+    "size": 160
+  },
+  "data": []
+}
