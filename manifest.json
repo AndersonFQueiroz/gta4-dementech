@@ -9,7 +9,7 @@
   "data": [
     {
       "list": "https://raw.githubusercontent.com/AndersonFQueiroz/gta4-dementech/main/data.json",
-      "dir": "LibertyRecomp",
+      "dir": "LibertyRecomp/game",
       "sync": true,
       "size": 7075514246
     }
