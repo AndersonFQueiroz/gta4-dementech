@@ -1,10 +1,17 @@
 {
-  "version": 1,
-  "notes": "Patch inicial Dementech",
+  "version": 5,
+  "notes": "Dados do jogo em arquivos individuais: baixa so o que falta, retoma de onde parou e apaga o que saiu da lista",
   "patch": {
-    "url": "https://github.com/AndersonFQueiroz/gta4-dementech/releases/download/v1/patch.zip",
-    "sha256": "54655f5f8f85c27c55e8f2ca28dac86eaf32ebdc6b10adabb2dfd7f81b805258",
-    "size": 160
+    "url": "https://github.com/AndersonFQueiroz/gta4-dementech/releases/download/v5/patch.zip",
+    "sha256": "450e37fb5c30bbd520ebf4142a2847b37a7a0d8b44fe725501d586fb0dd58ea2",
+    "size": 164
   },
-  "data": []
+  "data": [
+    {
+      "list": "https://raw.githubusercontent.com/AndersonFQueiroz/gta4-dementech/main/data.json",
+      "dir": "LibertyRecomp",
+      "sync": true,
+      "size": 7075514246
+    }
+  ]
 }
