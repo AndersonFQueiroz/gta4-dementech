@@ -1,10 +1,10 @@
 {
-  "version": 5,
-  "notes": "Dados do jogo em arquivos individuais: baixa so o que falta, retoma de onde parou e apaga o que saiu da lista",
+  "version": 6,
+  "notes": "Traducao PT-BR completa no slot frances (audio original em ingles preservado)",
   "patch": {
-    "url": "https://github.com/AndersonFQueiroz/gta4-dementech/releases/download/v5/patch.zip",
-    "sha256": "450e37fb5c30bbd520ebf4142a2847b37a7a0d8b44fe725501d586fb0dd58ea2",
-    "size": 164
+    "url": "https://github.com/AndersonFQueiroz/gta4-dementech/releases/download/v6/patch.zip",
+    "sha256": "a9d7e04dbb69a531f199ee371dcf22e39f4333100054ff07776f269152c8b4f3",
+    "size": 171
   },
   "data": [
     {
