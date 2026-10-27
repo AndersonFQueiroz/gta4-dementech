@@ -1,10 +1,10 @@
 {
-  "version": 6,
-  "notes": "Traducao PT-BR completa no slot frances (audio original em ingles preservado)",
+  "version": 7,
+  "notes": "Teste 30fps: frame limit 30 + vsync, FSR qualidade (800x360), densidades 0.30, sombra 0.40, reflexos a cada 2 frames, log info",
   "patch": {
-    "url": "https://github.com/AndersonFQueiroz/gta4-dementech/releases/download/v6/patch.zip",
-    "sha256": "a9d7e04dbb69a531f199ee371dcf22e39f4333100054ff07776f269152c8b4f3",
-    "size": 171
+    "url": "https://github.com/AndersonFQueiroz/gta4-dementech/releases/download/v7/patch.zip",
+    "sha256": "9197129f2d64f133de11d62e589445fa3d2d68a190389ead7110fe8d6283e7f8",
+    "size": 374
   },
   "data": [
     {
