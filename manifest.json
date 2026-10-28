@@ -1,10 +1,10 @@
 {
-  "version": 9,
-  "notes": "Teste 3: cap de textura 448 MB (texture heap cap) para evitar LOW_MEMORY; resto igual ao v8",
+  "version": 10,
+  "notes": "Teste 4: extra_frames_in_flight=1 (menos memoria transitoria do renderer) + cap de textura 448 MB; resto igual ao v9",
   "patch": {
-    "url": "https://github.com/AndersonFQueiroz/gta4-dementech/releases/download/v9/patch.zip",
-    "sha256": "66487b8a2fd3986e3569abb9bbde7b2de1ce6adc60df2d569a5bec715b0dc938",
-    "size": 242
+    "url": "https://github.com/AndersonFQueiroz/gta4-dementech/releases/download/v10/patch.zip",
+    "sha256": "20c63c98157e2ff14fa8f1cd95df6ed241521d826699ec660564f1855fc10df6",
+    "size": 255
   },
   "data": [
     {
