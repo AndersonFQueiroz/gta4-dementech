@@ -1,10 +1,10 @@
 {
-  "version": 10,
-  "notes": "Teste 4: extra_frames_in_flight=1 (menos memoria transitoria do renderer) + cap de textura 448 MB; resto igual ao v9",
+  "version": 11,
+  "notes": "Teste 5: revertido max_queued_frames=2 (causa do freeze ~4,5 min; com 3 rodou 17-20 min) e extra_frames_in_flight; mantem cap de textura 448, draw 0.40 e sombra 8",
   "patch": {
-    "url": "https://github.com/AndersonFQueiroz/gta4-dementech/releases/download/v10/patch.zip",
-    "sha256": "20c63c98157e2ff14fa8f1cd95df6ed241521d826699ec660564f1855fc10df6",
-    "size": 255
+    "url": "https://github.com/AndersonFQueiroz/gta4-dementech/releases/download/v11/patch.zip",
+    "sha256": "d44b25a0e78db9ec7f47e7cd0a25be84bd51ee1fb31624193350f1b3e2d0533f",
+    "size": 225
   },
   "data": [
     {
