@@ -1,10 +1,10 @@
 {
-  "version": 11,
-  "notes": "Teste 5: revertido max_queued_frames=2 (causa do freeze ~4,5 min; com 3 rodou 17-20 min) e extra_frames_in_flight; mantem cap de textura 448, draw 0.40 e sombra 8",
+  "version": 12,
+  "notes": "Teste 6: 30 fps confirmado (7,4 min); memoria 1,5 GB -> LMK. Cap de textura 320 MB + draw 0.35; sombra 8 e fila 3 mantidos",
   "patch": {
-    "url": "https://github.com/AndersonFQueiroz/gta4-dementech/releases/download/v11/patch.zip",
-    "sha256": "d44b25a0e78db9ec7f47e7cd0a25be84bd51ee1fb31624193350f1b3e2d0533f",
-    "size": 225
+    "url": "https://github.com/AndersonFQueiroz/gta4-dementech/releases/download/v12/patch.zip",
+    "sha256": "1ec518c53e63af1223f5c893d78543972d0a6ae94d0cdb05d65e7001efe1bfc7",
+    "size": 226
   },
   "data": [
     {
