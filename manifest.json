@@ -1,10 +1,10 @@
 {
-  "version": 8,
-  "notes": "Teste 2: driver R6 embutido, sombras intervalo 8, mailbox, draw 0.40, fila 2",
+  "version": 9,
+  "notes": "Teste 3: cap de textura 448 MB (texture heap cap) para evitar LOW_MEMORY; resto igual ao v8",
   "patch": {
-    "url": "https://github.com/AndersonFQueiroz/gta4-dementech/releases/download/v8/patch.zip",
-    "sha256": "b832e7616796a23f1a4794e74debd2911e992ef9755687d9fdfcc6bda28a4a62",
-    "size": 274
+    "url": "https://github.com/AndersonFQueiroz/gta4-dementech/releases/download/v9/patch.zip",
+    "sha256": "66487b8a2fd3986e3569abb9bbde7b2de1ce6adc60df2d569a5bec715b0dc938",
+    "size": 242
   },
   "data": [
     {
