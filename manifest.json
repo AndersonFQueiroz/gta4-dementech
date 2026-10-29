@@ -1,10 +1,10 @@
 {
-  "version": 12,
-  "notes": "Teste 6: 30 fps confirmado (7,4 min); memoria 1,5 GB -> LMK. Cap de textura 320 MB + draw 0.35; sombra 8 e fila 3 mantidos",
+  "version": 13,
+  "notes": "Teste 7: sem PC, modo jogavel. Textura 256 MB, draw 0.30, densidades 0.25 (memoria cresce mais devagar); fila 3 e sombra 8 mantidos. Ativar RAM Plus 4 GB + fechar apps antes",
   "patch": {
-    "url": "https://github.com/AndersonFQueiroz/gta4-dementech/releases/download/v12/patch.zip",
-    "sha256": "1ec518c53e63af1223f5c893d78543972d0a6ae94d0cdb05d65e7001efe1bfc7",
-    "size": 226
+    "url": "https://github.com/AndersonFQueiroz/gta4-dementech/releases/download/v13/patch.zip",
+    "sha256": "5ac441208fd6dc00a1fc146a35ed97cbba294adba70dc4518cdeecafe1559fcc",
+    "size": 263
   },
   "data": [
     {
